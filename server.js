@@ -13,7 +13,7 @@ const options = {
     info: {
       title: "Sorasak Charoenkittisak 66130413 API",
       version: "1.0.0",
-      description: "Sorasak Charoenkittisak 66130413 API  Lab",
+      description: "Mr.Sorasak Charoenkittisak 66130413 API  Lab",
     },
   },
   apis: ["./routes/*.js"],
