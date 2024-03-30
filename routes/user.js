@@ -4,9 +4,9 @@ const router = express.Router();
 const users = [
   {
     id: 1,
-    fullname: "Harry Potter",
+    fullname: "Sorasak Charoenkittisak",
     avatar:
-      "https://www.flashfly.net/wp/wp-content/uploads/2022/05/FTX1B5hWIAA6GRr-2-800x600.jpeg",
+      "https://kumamoto-guide.jp/files/c1d2b8bb-0a69-4916-bb60-27a6aded0f83_m.jpg",
   },
   {
     id: 2,
@@ -44,7 +44,7 @@ router.post("/user/login", function (req, res) {
   const { username, password } = req.body;
   const id = 1; //รหัส User 1
   // Validate username and password (example: check against database)
-  if (username === "exampleUser" && password === "examplePassword") {
+  if (username === "66130413" && password === "12345") {
     // Authentication successful
     res
       .status(200)

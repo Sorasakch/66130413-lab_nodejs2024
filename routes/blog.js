@@ -63,6 +63,12 @@ const blogs = [
     description: "โจว จื่อวี่ (Chou Tzu Yu)",
     cover:
       "https://cms.dmpcdn.com/musicarticle/2020/10/08/93f00630-0940-11eb-a3b0-f9d575a2517d_original.jpg",
+  }, {
+    id: 10,
+    title: "เสี่ยวเหยียน (Xiao Yan)",
+    description: "เสี่ยวเหยียน (Xiao Yan)",
+    cover:
+      "https://i.pinimg.com/originals/b9/d8/9d/b9d89d294535127aff40205bcf2dc3ff.jpg",
   },
 ];
 
