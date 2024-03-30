@@ -68,7 +68,7 @@ const blogs = [
     title: "เสี่ยวเหยียน (Xiao Yan)",
     description: "เสี่ยวเหยียน (Xiao Yan)",
     cover:
-    "https://png.pngtree.com/png-vector/20220807/ourmid/pngtree-cartoon-panda-sleep-png-image_6102474.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png",
   },
 ];
 
